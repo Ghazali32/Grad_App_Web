@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "1084789174389",
+    "project_id": "grad-therapy",
+    "storage_bucket": "grad-therapy.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1084789174389:android:9afb823dac14424c13c83c",
+        "android_client_info": {
+          "package_name": "com.nice.expert"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1084789174389-osh84fu9d15s6ab6okdil8qhar9u2o86.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nice.expert",
+            "certificate_hash": "030e329640e262e58ea8576c63d57aa445bfd553"
+          }
+        },
+        {
+          "client_id": "1084789174389-t786o0srsfr5mhhkdoc09s9kbbrd6it6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nice.expert",
+            "certificate_hash": "d8139bd1cd736af0cc87c00f531d459fe7868aa7"
+          }
+        },
+        {
+          "client_id": "1084789174389-vd05u4v91b9r26u29v5kevfnfer3pl0d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nice.expert",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "1084789174389-sfr20chh04sjhtithsh1aqpcsaerem92.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyXB4GvjghP6fW1Ua4XEbMPxH_fH5YPBE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1084789174389-sfr20chh04sjhtithsh1aqpcsaerem92.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

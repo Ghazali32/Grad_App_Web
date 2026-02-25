@@ -1,0 +1,72 @@
+@import "tailwindcss";
+
+@theme {
+  --color-primary-100: #49B585;
+  --color-primary-200: #49B585;
+  --color-primary-300: #49B585;
+  --color-primary-400: #49B585;
+  --color-primary-500: #49B585;
+  --color-primary-600: #49B585;
+  --color-primary-700: #49B585;
+  --color-primary-800: #49B585;
+  --color-primary-900: #49B585;
+
+  --color-primary-transparent-100: rgba(145, 7, 41, 0.08);
+  --color-primary-transparent-200: rgba(145, 7, 41, 0.16);
+  --color-primary-transparent-300: rgba(145, 7, 41, 0.24);
+  --color-primary-transparent-400: rgba(145, 7, 41, 0.32);
+  --color-primary-transparent-500: rgba(145, 7, 41, 0.40);
+  --color-primary-transparent-600: rgba(145, 7, 41, 0.48);
+
+  --color-success-100: #E9F9D0;
+  --color-success-200: #CFF3A3;
+  --color-success-300: #A5DD6F;
+  --color-success-400: #79BB47;
+  --color-success-500: #448E19;
+  --color-success-600: #327A12;
+  --color-success-700: #22660C;
+  --color-success-800: #155207;
+  --color-success-900: #0C4404;
+
+  --color-info-100: #CEE3FB;
+  --color-info-200: #A0C5F7;
+  --color-info-300: #6D9EE8;
+  --color-info-400: #4679D2;
+  --color-info-500: #154AB5;
+  --color-info-600: #0F399B;
+  --color-info-700: #0A2A82;
+  --color-info-800: #061D68;
+  --color-info-900: #041456;
+
+  --color-warning-100: #FBECCC;
+  --color-warning-200: #F8D59A;
+  --color-warning-300: #EBB266;
+  --color-warning-400: #D88F3F;
+  --color-warning-500: #BF5F0B;
+  --color-warning-600: #A44808;
+  --color-warning-700: #893505;
+  --color-warning-800: #6E2403;
+  --color-warning-900: #5B1802;
+
+  --color-danger-100: #FBD4D0;
+  --color-danger-200: #F7A2A3;
+  --color-danger-300: #E7707D;
+  --color-danger-400: #CF4A65;
+  --color-danger-500: #AF1A47;
+  --color-danger-600: #961347;
+  --color-danger-700: #7D0D45;
+  --color-danger-800: #65083F;
+  --color-danger-900: #53043B;
+
+  --color-green-100: #49B585;
+  --color-grey-100: #29344D;
+  --color-black-100: #070707;
+  --color-blue-100: #222C43;
+  --color-white-100: #F5F5F5;
+}
+
+@layer base {
+  body {
+    @apply bg-gray-50 text-gray-900;
+  }
+}
